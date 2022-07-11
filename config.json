@@ -7,11 +7,11 @@
     "retry": 5,
     "domains": [
         {
-            "domain": "url",
+            "domain": "https://www.onezz.me/e",
             "proxy": true,
             "param": {
-                "email": "email",
-                "passwd": "password"
+                "email": "danduankou80@admin.com",
+                "passwd": "crHL0NVW"
             }
         },
         {
